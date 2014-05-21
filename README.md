@@ -3,7 +3,7 @@ example-turnip
 
 # インストール
 
-## install qt
+### install qt
 ref: https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit
 
 ```
@@ -13,7 +13,7 @@ sudo apt-get install libqt4-dev # ubuntu
 ```
 
 
-# bundle install
+### bundle install
 ```
 bundle install --path vendor/bundle
 ```
